@@ -54,7 +54,17 @@ Medium-sized outlets in Tier 3 locations tend to be more profitable.
 
 Supermarkets show higher sales volumes, whereas grocery stores offer better item visibility.
 
+
+<h1>👨‍💻 Author
+Adarsh Nishad</h1>
+
+GitHub: (https://github.com/adarshnishad534)
+
+LinkedIn:www.linkedin.com/in/adarsh-nishad-474222366
+
+
 <h1>My Dashboard</h1>
+
 
 <img width="1336" height="747" alt="Blikit" src="https://github.com/user-attachments/assets/4ba804dc-f37d-4c06-ba1c-f1175e2056eb" />
 
